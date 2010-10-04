@@ -1,0 +1,28 @@
+Init
+====
+
+//Begin//PPPvP//
+Base64(
+{
+    "type" : Base64("init"),
+    "version" : Base64("0"),
+    "input-uri" : Base64("uri"),
+    "output-uri" : Base64("uri"),
+    "output-password" : Base64("password")
+}
+)
+//End//PPPvP//
+
+
+Input-Output
+============
+
+//Begin//PPPvP//
+Base64(
+{
+    "type" : Base64("data"),
+    "version" : Base64("0"),
+    "data" : Base64("http-message")
+}
+)
+//End//PPPvP//
